@@ -1,0 +1,10 @@
+urls.sh
+log
+*.tar*
+train
+test
+val
+val_imgs
+ILSVRC
+synsets.csv
+ILSVRC2012_devkit_t12
